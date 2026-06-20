@@ -1,7 +1,8 @@
 # 视频批量下载 & 链接提取工具集
 
 此项目为二改，二改的原项目链接：https://github.com/wujunwei928/parse-video-py
-
+下载发布版本：parse-video-py_Portable_x86_windows.zip
+源代码下载：只有源代码没有依赖
 三个工具合一：Web 端批量下载 + B站链接提取 + 抖音链接提取。双击即用。
 
 ## 项目结构
